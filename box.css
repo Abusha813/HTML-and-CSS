@@ -1,0 +1,20 @@
+.box{
+    border:  2px solid;
+    padding: 2px 2px;
+
+    
+    
+}
+.container{
+    background-color: blueviolet;
+    border-radius: 3px;
+}
+
+body{
+    background-color: aqua;
+    margin: 10px;
+    padding: 10px 20px;
+    border: 2px solid red;
+    
+
+}
