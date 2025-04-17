@@ -1,0 +1,85 @@
+body{
+    background-color: black;
+}
+
+#containar{
+    border: 2px solid gray;
+    background-color:#99d6ff;
+    width: 500px;
+    height: 400px;
+    margin: 70px;
+}
+h4{
+    padding-left: 20px;
+}
+#phone{
+    padding-left: 40px;
+    padding-top: 45px;
+    font-size: 24px;
+}
+#phone2{
+    margin-top:30px ;
+    height: 20px;
+    width: 130px;
+}
+#firstname{
+    padding-left: 40px;
+    padding-top: 45px;
+    font-size: 24px;
+}
+#firstname2{
+    margin-top:20px ;
+    height: 20px;
+    width: 150px;
+    margin-left: 20px;
+}
+#lastname{
+    padding-left: 40px;
+    padding-top: 45px;
+    font-size: 24px;
+}
+#lastname2{
+    margin-top:20px ;
+    height: 20px;
+    width: 150px;
+    margin-left: 20px;
+}
+#sex{
+    padding-left: 40px;
+    padding-top: 60px;
+    font-size: 24px;
+}
+#birthdate{
+    margin-top:20px ;
+    padding-left: 40px;
+    height: 30px;
+    width: 150px;
+    font-size: 24px;
+
+}
+#date{
+    margin: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+}
+a:hover{
+    color: blue;
+}
+#btn {
+    width: 500px;
+    margin-top: 34px;
+    background-color: blue;
+    color: white;
+    height: 50px;
+}
+#btn:hover{
+    background-color: beige;
+    color: blue;
+}
+#btn:active{
+    background-color: aliceblue;
+    color: aquamarine;
+}
