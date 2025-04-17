@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(12, 13, 13);
+}
+#login{
+    background-color:#ffff;
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 350px;
+    height: 320px;
+    margin-left: 6em   ;
+    margin-top: 2.4em;
+    color: #810f8b;
+    padding-left: 30px;
+    padding-top: 40px;
+    
+}
+#username1{
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: 1.3em;
+   
+}
+#username2{
+    color: whitesmoke;
+    padding: 15px;
+    margin-top: 20px;
+    border: 2px solid  blueviolet;
+    border-radius: 20px;
+    background-color: white;
+
+}
+#password1{
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: 1.3em;
+    
+
+}
+#password2{
+   
+    color: whitesmoke;
+    
+    height: 40px;
+    margin-top: 20px;
+    border: 1px solid black;
+    border-radius: 13px;
+    background-color:white;
+    cursor: text;
+    
+}
+#a{
+    padding-left: 200px;
+    padding-top: 40px;
+}
+#btn{
+    margin-top: 50px;
+    margin-left: 140px;
+    width: 100px;
+    height: 35px;
+    border: 2px solid purple;
+    border-radius: 20px;
+    background-color: rgb(124, 124, 172);
+    color: rgb(235, 68, 17);
+}
+#btn:hover{
+    background-color: aliceblue;
+    color: blueviolet;
+    
+}
+p{
+    padding-left: 5px;
+}
